@@ -1,11 +1,16 @@
 # Jarvis
 
 A modular, extensible Python agent framework for building intelligent assistants and automation tools. Jarvis is designed for rapid prototyping and easy integration of custom prompts, tools, and workflows.
-https://docs.livekit.io/agents/start/voice-ai/
-
+## Imp links to look 
+  - https://docs.livekit.io/agents/start/voice-ai/
+  - https://docs.livekit.io/home/cli/cli-setup/
+   - for APK
+   - https://cloud.livekit.io/projects/p_1p1xfqksh5k/sandbox
 ---
-
-
+### andorid download 
+```bash
+  $ lk app create --template android-voice-assistant --sandbox <token_server_sandbox_id> --api-key <your_key> --api-secret<your_sec_key>
+```
 ## Features
 - **Agent Framework**: Easily create and run intelligent agents.
 - **Prompt Management**: Modular prompt system for flexible agent behavior.
