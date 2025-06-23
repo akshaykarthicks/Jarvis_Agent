@@ -76,10 +76,7 @@ Contributions are welcome! Please:
 
 ---
 
-## License
 
-[MIT License](LICENSE)  
-See LICENSE file for details.
 
 ---
 
