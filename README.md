@@ -2,6 +2,9 @@
 
 A modular, extensible Python agent framework for building intelligent assistants and automation tools. Jarvis is designed for rapid prototyping and easy integration of custom prompts, tools, and workflows.
 
+<img width="1805" height="1002" alt="image" src="https://github.com/user-attachments/assets/65b796bd-83b4-4cb6-b3c0-a6ead9cb60ae" />
+
+
 ## 🚀 Features
 
 - **🧠 Agent Framework**: Easily create and run intelligent agents with minimal setup
